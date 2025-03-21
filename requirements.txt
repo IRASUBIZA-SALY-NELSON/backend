@@ -109,7 +109,7 @@ python-multipart==0.0.6
 python-nmap==0.7.1
 python-socketio==5.10.0
 pytz==2025.1
-pywin32==310
+# pywin32==310
 pyzmq==26.3.0
 referencing==0.36.2
 requests==2.31.0
